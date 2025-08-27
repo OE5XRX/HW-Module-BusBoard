@@ -27,8 +27,6 @@ _autosave-*
 
 # KiCad user-specific configuration (optional, keep if collaborating)
 fp-info-cache
-sym-lib-table
-fp-lib-table
 *.dcm
 *.cache
 *.tmp
