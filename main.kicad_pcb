@@ -1136,7 +1136,7 @@
 			(uuid "222ca8aa-9f15-4d03-9137-3a91c9cb599e")
 		)
 		(embedded_fonts no)
-		(model "footprints/PCN10-20P-2.54DSA.stp"
+		(model "3d-models/PCN10-20P-2.54DSA.stp"
 			(offset
 				(xyz 5.6 -35.6 0)
 			)
@@ -1930,7 +1930,7 @@
 			(uuid "f57d1f7e-1f58-472a-bb00-8fb5990120b0")
 		)
 		(embedded_fonts no)
-		(model "footprints/PCN10-20P-2.54DSA.stp"
+		(model "3d-models/PCN10-20P-2.54DSA.stp"
 			(offset
 				(xyz 5.6 -35.6 0)
 			)
@@ -3140,7 +3140,7 @@
 			(uuid "8efd11ed-b8f1-4e92-beba-8eb399b85415")
 		)
 		(embedded_fonts no)
-		(model "footprints/PCN10-20P-2.54DSA.stp"
+		(model "3d-models/PCN10-20P-2.54DSA.stp"
 			(offset
 				(xyz 5.6 -35.6 0)
 			)
@@ -3934,7 +3934,7 @@
 			(uuid "81b7785e-7a43-4a25-981e-d4c08d63539d")
 		)
 		(embedded_fonts no)
-		(model "footprints/PCN10-20P-2.54DSA.stp"
+		(model "3d-models/PCN10-20P-2.54DSA.stp"
 			(offset
 				(xyz 5.6 -35.6 0)
 			)
@@ -4728,7 +4728,7 @@
 			(uuid "7c406955-879e-49b8-944f-6562e283050e")
 		)
 		(embedded_fonts no)
-		(model "footprints/PCN10-20P-2.54DSA.stp"
+		(model "3d-models/PCN10-20P-2.54DSA.stp"
 			(offset
 				(xyz 5.6 -35.6 0)
 			)
@@ -5522,7 +5522,7 @@
 			(uuid "8da43bd3-b418-4478-9bad-947014d4ea86")
 		)
 		(embedded_fonts no)
-		(model "footprints/PCN10-20P-2.54DSA.stp"
+		(model "3d-models/PCN10-20P-2.54DSA.stp"
 			(offset
 				(xyz 5.6 -35.6 0)
 			)
