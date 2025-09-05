@@ -1,9 +1,12 @@
-name: Create Production Data For Beta No-Release Version
+name: Create Production Data For Beta Version
 on:
   workflow_dispatch:
   push:
     branches:
       - 'main'
+
+permissions:
+  contents: write
 
 jobs:
   export-ecad:
@@ -35,3 +38,43 @@ jobs:
           name: production
           path: output
           if-no-files-found: error
+
+
+  collect-and-provide:
+    runs-on: ubuntu-24.04
+    needs: export-ecad
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+          cache-version: 0
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+        with:
+          generator_config_file: doc
+
+      - name: Build with Jekyll
+        run:  cd doc && bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - uses: actions/download-artifact@v5
+        with:
+          name: production
+          path: doc/_site
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: doc/_site
+          target-folder: ${{ env.DEPLOY_PATH }}
+          clean: true
