@@ -1,0 +1,8 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,LCSC,MOUSER
+1,Unpolarized capacitor,C,C103 C104 C105 C106 C107 C108,100nF,C_0805_2012Metric,6, ,~,C28233,
+2,Unpolarized capacitor,C,C101 C102,10uF,C_0805_2012Metric,2, ,~,C13585,
+3,"Generic connector, double row, 02x10, row letter first pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. a1, ..., aN; b1, ..., bN), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x10_Row_Letter_First,J201 J301 J401 J501 J601 J701,Conn_02x10_Row_Letter_First,PCN10-20P-2.54DSA,6, ,~,,798-PCN1020P254DSA72
+4,Resistor,R,R103,2k7,R_0805_2012Metric,1, ,~,C352230,
+5,"USB 2.0 High Speed 4-Port Hub Controller, SSOP-28",FE1.1s,U102,FE1.1s,SSOP-28_3.9x9.9mm_P0.635mm,1, ,https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf,C6706491,
+6,"Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",USBLC6-2SC6,U101 U103 U104 U105 U106,USBLC6-2SC6,SOT-23-6,5, ,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,C2827654,
+7,Two pin crystal,Crystal,Y101,12MHz,M49S-SMD,1, ,~,C2983432,
