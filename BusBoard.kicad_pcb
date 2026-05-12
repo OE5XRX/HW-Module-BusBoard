@@ -310,7 +310,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/213e009e-1cc2-4b43-88e1-77a9b60f902a")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -439,7 +439,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/f332b674-adbb-4072-b5f2-8b565fe9268a")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1233,7 +1233,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/8c461f2a-9fcb-4f82-9c61-9b58997b73f1")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3237,7 +3237,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/a7352923-ead4-4dab-b899-d196f5b40c66")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4031,7 +4031,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/31388145-af1f-4569-a9b6-1f944b481a56")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4825,7 +4825,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/31730e94-38b1-4a11-af6e-52648144ec76")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5619,7 +5619,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/a71b631a-f41c-403b-832f-39b60d82402f")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5748,7 +5748,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/6bf9776a-474d-4535-8488-ebdbbd77e236")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5877,7 +5877,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/72380362-9433-45d2-9157-3b5b9c9e9ddb")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6006,7 +6006,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/3ff39e98-829b-42a4-94ab-f64d6bb7711a")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6135,7 +6135,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/2d9b46a7-0fa0-4f4b-8251-e6ed83b22d39")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6264,7 +6264,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/5568f62d-d332-44b1-89dd-4cf017a1febf")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6399,7 +6399,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1cd10d58-f2f0-4e3e-9e29-23d676cd5769")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -7457,7 +7457,7 @@
 		(property ki_fp_filters "Crystal*")
 		(path "/6a7ac277-0f21-4218-bca1-612859984398")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.5 2)
@@ -8914,7 +8914,7 @@
 		(property ki_fp_filters "SSOP*3.9x9.9mm*P0.635mm*")
 		(path "/0d231290-6672-4caa-95bb-a94bbb5a2804")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.075 5.08)
@@ -9434,7 +9434,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/24a3de4a-8061-46c3-a5c4-1d448534635c")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -9882,7 +9882,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a486a8db-639c-4a0e-8e90-545515a88742")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -10412,7 +10412,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ee5ccd3c-a7f1-47ec-81e1-bcf3e3420008")
 		(sheetname "/")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "BusBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
