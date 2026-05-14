@@ -5,7 +5,7 @@
 	(uuid "b22416d8-6c10-4149-83d4-002a4aa4d9c4")
 	(paper "A4")
 	(title_block
-		(rev "<<HASH>>")
+		(rev "<<VERSION>>")
 		(company "Amateurfunkclub für Remote Stationen")
 	)
 	(lib_symbols
